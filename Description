@@ -1,0 +1,35 @@
+This is a Python-based BMI Calculator with a user-friendly GUI built using Tkinter. It calculates Body Mass 
+Index from user input, classifies it into categories (Underweight, Normal, Overweight, Obese), and stores the 
+results in memory. A dynamic BMI trend graph is also generated using Matplotlib, helping users track their
+health over time. This project showcases core Python concepts including GUI design, data handling, and visualization.
+
+🔧 Key Features:
+🖥 GUI Interface (Tkinter)
+
+📈 BMI Trend Graph (Matplotlib)
+
+🗃 Stores BMI history during session
+
+📋 Categorizes BMI (Underweight, Normal, Overweight, Obese)
+
+✅ Input validation with error handling
+
+This project helped me practice GUI development, data visualization, and basic health logic using Python.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
